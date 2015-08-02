@@ -20,6 +20,6 @@ $lang_bbeditor = array(
 
     'promptImage'       => 'Entrez une URL pour votre image:',
     'promptUrl'         => 'Entrez une URL:',
-    'promptQuote'       => 'Veuillez entrer le nom de l utilisateur cité (ou laissez vide):'
+    'promptQuote'       => 'Veuillez entrer le nom de l\'utilisateur cité (ou laissez vide):'
 
 );
